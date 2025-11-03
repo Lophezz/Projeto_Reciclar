@@ -13,10 +13,6 @@ O "Projeto Reciclar" é um site informativo que busca educar o público sobre o 
 
 O objetivo é centralizar informações e incentivar a ação, facilitando o contato com o projeto e a localização do ponto de coleta.
 
-### 🖼️ Telas do Site
-
-Aqui é um ótimo lugar para adicionar *prints* do site!
-
 ## ✨ Funcionalidades Principais
 
 Baseado no código-fonte, o site apresenta:
